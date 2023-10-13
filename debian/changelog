@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+haskell-witherable (0.4.2-2) unstable; urgency=medium
+
+  * Gratuitous post-NEW source upload.
+
+ -- Clint Adams <clint@debian.org>  Sat, 23 Jul 2022 08:05:25 -0400
+
+haskell-witherable (0.4.2-1) unstable; urgency=low
 
   * Initial release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Fri, 22 Jul 2022 19:39:38 +0300
